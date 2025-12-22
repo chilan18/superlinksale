@@ -85,7 +85,7 @@ def get_links(
     db: Session = Depends(get_db),
     _: dict = Depends(verify_token)
 ):
-    links = db.query(models.Link).filter(models.Link.is_deleted == False).offset(skip).limit(limit).all()
+    links = db.query(models.Link).filter(models.Link.is_deleted == False).order_by(models.Link.id.desc()).offset(skip).limit(limit).all()
     return links
 
 @app.get("/api/links/{short_code}", response_model=schemas.LinkResponse)
